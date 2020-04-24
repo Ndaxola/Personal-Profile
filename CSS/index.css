@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.personal-image {
+  text-align: center;
+}
+
+.personal-image img {
+  border-radius: 600px;
+  width: 350px;
+  height: 350px;
+}
+
+.personal-info0 {
+  text-align: center;
+}
+
+.personal-info {
+  text-align: center;
+}
+
+.personal-image2 {
+  text-align: center;
+}
+
+.personal-image2 img {
+  border-radius: 600px;
+  width: 350px;
+  height: 350px;
+}
+
+.personal-info2 {
+  text-align: center;
+}
+
+.personal-image3 {
+  text-align: center;
+}
+
+.personal-image3 img {
+  border-radius: 600px;
+  width: 350px;
+  height: 350px;
+}
+
+.personal-info3 {
+  text-align: center;
+}
+
+.personal-image4 {
+text-align: center;
+}
+
+.personal-image4 img {
+  border-radius: 600px;
+  width: 350px;
+  height: 350px;
+}
+
+.personal-info4 {
+  text-align: center;
+}
+
+.footer-info {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px; 
+
+}
